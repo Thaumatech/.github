@@ -13,10 +13,10 @@
 
 ## Overview
 
-**Thaumatech** is a personal initiative exploring low-level Computer Science. As I study **magic** I'll develop my own, which will be published here as open source projects.
-
 It operates under a single premise:  
 **Magic Already Exists.** It's just in the form of science, and people tend to find effort boring.
+
+**Thaumatech** is a personal initiative exploring low-level Computer Science. As I study **magic** I'll develop my own, which will be published here as open source projects.
 
 ---
 
@@ -28,11 +28,15 @@ My intention for Thaumatech is to one day have built every tool for my own custo
 
 #### Currently In Development
 
-- [ ] **Forge**  
-  ‣ *What it does:* Build automation tool  
+- [ ] **Hex**  
+  ‣ *What it does:* Terminal tool for program debugging  
   ‣ *Inspired by:* `make`
 
 #### Future Plans
+
+- [ ] **Forge**  
+  ‣ *What it does:* Build automation tool  
+  ‣ *Inspired by:* `make`
 
 - [ ] **Terminal-based Text Editor**  
   ‣ *What it does:* Text/code editing in terminal  
