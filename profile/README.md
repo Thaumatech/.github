@@ -30,7 +30,7 @@ My intention for Thaumatech is to one day have built every tool for my own custo
 
 - [ ] **Hex**  
   ‣ *What it does:* Terminal tool for program debugging  
-  ‣ *Inspired by:* `make`
+  ‣ *Inspired by:* `gdb`
 
 #### Future Plans
 
