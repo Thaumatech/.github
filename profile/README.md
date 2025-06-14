@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/thaumatech.png" width="200" alt="Thaumatech Logo"/>
+  <img src="assets/thaumatech.png" alt="Thaumatech Logo"/>
 </p>
 
 
