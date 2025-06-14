@@ -22,7 +22,7 @@ It operates under a single premise:
 
 ## Intent
 
-This space serves as a library of experiments, tools, and ideas.
+This space serves as a library of experiments, tools, and ideas, built entirely in ***C***.
 
 My intention for Thaumatech is to one day have built every tool for my own custom workflow, like my own advanced terminal based text-editors like vim, and my own advanced version control systems like git.
 
