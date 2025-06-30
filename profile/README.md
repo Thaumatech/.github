@@ -26,9 +26,9 @@ My intention for Thaumatech is to one day have built every tool for my own custo
 
 #### Currently In Development
 
-- [ ] **Grimoire**
-      ‣ _What it does:_ C library for easy access to common data structures
-      ‣ _Inspired by:_ `python`
+- [ ] **Grimoire**  
+       ‣ _What it does:_ C library for easy access to common data structures  
+       ‣ _Inspired by:_ `python`
 
 - [ ] **Forge**  
        ‣ _What it does:_ Build automation tool  
