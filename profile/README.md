@@ -1,12 +1,10 @@
 # Thaumatech
 
-
 <p align="center">
   <img src="assets/thaumatech.png" alt="Thaumatech Logo"/>
 </p>
 
-
-> *"_Any sufficiently advanced **technology** is **indistinguishable** from **magic**._"*  
+> _"*Any sufficiently advanced **technology** is **indistinguishable** from **magic**.*"_  
 > — Arthur C. Clarke
 
 ---
@@ -22,37 +20,41 @@ It operates under a single premise:
 
 ## Intent
 
-This space serves as a library of experiments, tools, and ideas, built entirely in ***C***.
+This space serves as a library of experiments, tools, and ideas, built entirely in **_C_**.
 
 My intention for Thaumatech is to one day have built every tool for my own custom workflow, like my own advanced terminal based text-editors like vim, and my own advanced version control systems like git.
 
 #### Currently In Development
 
-- [ ] **Hex**  
-  ‣ *What it does:* Terminal tool for program debugging  
-  ‣ *Inspired by:* `gdb`
+- [ ] **Grimoire**
+      ‣ _What it does:_ C library for easy access to common data structures
+      ‣ _Inspired by:_ `python`
+
+- [ ] **Forge**  
+       ‣ _What it does:_ Build automation tool  
+       ‣ _Inspired by:_ `make`
 
 #### Future Plans
 
-- [ ] **Forge**  
-  ‣ *What it does:* Build automation tool  
-  ‣ *Inspired by:* `make`
+- [ ] **Hex**  
+       ‣ _What it does:_ Terminal tool for program debugging  
+       ‣ _Inspired by:_ `gdb`
 
-- [ ] **Terminal-based Text Editor**  
-  ‣ *What it does:* Text/code editing in terminal  
-  ‣ *Inspired by:* `vim`
+- [ ] **Rune**  
+       ‣ _What it does:_ Terminal-based text editor  
+       ‣ _Inspired by:_ `vim`
 
 - [ ] **Version Control System**  
-  ‣ *What it does:* Tracks changes across files  
-  ‣ *Inspired by:* `git`
+       ‣ _What it does:_ Tracks changes across files  
+       ‣ _Inspired by:_ `git`
 
 - [ ] **Linux Distro**  
-  ‣ *What it does:* Customized Linux distribution  
-  ‣ *Inspired by:* `Arch`, `Nix`
+       ‣ _What it does:_ Customized Linux distribution  
+       ‣ _Inspired by:_ `Arch`
 
 - [ ] **Operating System**  
-  ‣ *What it does:* Full OS kernel and userland
-  ‣ *Inspired by:* `Linux`, `Redox`, etc.
+       ‣ _What it does:_ Full OS kernel and userland
+      ‣ _Inspired by:_ `Linux`
 
 ---
 
@@ -68,7 +70,7 @@ This is not a company, a studio, or an organization — just a guy with an inter
 
 For discussion, collaboration, or curiosity:
 
-`sehnsucht.nach.einer.ehefrau@gmail.com`  
+`sehnsucht.nach.einer.ehefrau@gmail.com`
 
 [Thaumatech Github](https://github.com/thaumatech)
 
