@@ -4,14 +4,14 @@
   <img src="assets/thaumatech.png" alt="Thaumatech Logo"/>
 </p>
 
-> _"*Any sufficiently advanced **technology** is **indistinguishable** from **magic**.*"_ 
+> _"*Any sufficiently advanced **technology** is **indistinguishable** from **magic**.*"_  
 > — Arthur C. Clarke
 
 ---
 
 ## Overview
 
-It operates under a single premise: 
+It operates under a single premise:  
 **Magic Already Exists.** It's just in the form of science, and people tend to find effort boring.
 
 **Thaumatech** is a personal initiative exploring low-level Computer Science. As I study **magic** I'll develop my own, which will be published here as open source projects.
@@ -26,26 +26,22 @@ My intention for Thaumatech is to one day have built every tool for my own custo
 
 #### Currently In Development
 
-- [ ] **Forge** 
-       ‣ _What it does:_ Build automation tool 
-       ‣ _Inspired by:_ `make`
+- [ ] **Hex**  
+    ‣ _What it does:_ Terminal tool for program debugging  
+    ‣ _Inspired by:_ `gdb`
 
 #### Future Plans
 
-- [ ] **Hex** 
-       ‣ _What it does:_ Terminal tool for program debugging
-       ‣ _Inspired by:_ `gdb`
-
-- [ ] **Rune**
-       ‣ _What it does:_ Terminal-based text editor 
+- [ ] **Rune**  
+       ‣ _What it does:_ Terminal-based text editor  
        ‣ _Inspired by:_ `vim`
 
-- [ ] **Linux Distro**
-       ‣ _What it does:_ Customized Linux distribution
+- [ ] **Linux Distro**  
+       ‣ _What it does:_ Customized Linux distribution  
        ‣ _Inspired by:_ `Arch`
 
-- [ ] **Operating System**
-       ‣ _What it does:_ Full OS kernel and userland
+- [ ] **Operating System**  
+       ‣ _What it does:_ Full OS kernel and userland  
       ‣ _Inspired by:_ `Linux`
 
 ---
